@@ -10,9 +10,9 @@ public class Main {
         Scanner leer = new Scanner(System.in);
 
         // --- APRENDICES REGISTRADOS AUTOMÁTICAMENTE ---
-        sistema.registrarAprendiz(new Aprendiz("101", "Angel Medina", "282333", "3101234567"));
-        sistema.registrarAprendiz(new Aprendiz("102", "Maria Ruiz", "282133", "3117654321"));
-        sistema.registrarAprendiz(new Aprendiz("103", "Isabella Olivares", "282777", "3120001122"));
+        sistema.registrarAprendiz(new Aprendiz("101", "Juan Roy", "282333", "3034567892"));
+        sistema.registrarAprendiz(new Aprendiz("102", "Marcos Polo", "282145", "3034764087"));
+        sistema.registrarAprendiz(new Aprendiz("103", "Camilo Sanchez", "424567", "321476984"));
 
         // --- EQUIPOS DE PRUEBA ---
         sistema.registrarEquipo(new Equipo("E1", "Laptop HP", "computo"));
